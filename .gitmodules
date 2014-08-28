@@ -1,7 +1,3 @@
-[submodule "LIUtils"]
-	path = LIUtils
-	url = git://github.com/laxcat5/LIUtils.git
-	branch = LaxCat
 [submodule "Project-Academy"]
 	path = Project-Academy
 	url = git://github.com/laxcat5/Project-Academy.git
