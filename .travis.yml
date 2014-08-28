@@ -7,4 +7,4 @@ jdk:
 before_install: 
   - "chmod 777 ./gradlew"
   - "./gradlew check -i"
-script: "./gradlew check -i"
+script: "./gradlew runServer"
