@@ -2,3 +2,7 @@
 	path = Project-Academy
 	url = git://github.com/laxcat5/Project-Academy.git
 	branch = LaxCat
+[submodule "LIUtils"]
+	path = LIUtils
+	url = git://github.com/laxcat5/LIUtils.git
+	branch = LaxCat
